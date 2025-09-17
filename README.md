@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">Hi, I’m **Devashya Patil** 👋 I’m a **Computer Engineer** and **Android App Developer** who enjoys building clean and user-friendly applications. ☕ I love working with Java, exploring backend development, and experimenting with new technologies like AI. 🚀 I’m always learning, creating, and turning ideas into reality.</p>
+<p align="left">Hi, I’m Devashya Patil 👋 I’m a Computer Engineer and Android App Developer who enjoys building clean and user-friendly applications. ☕ I love working with Java, exploring backend development, and experimenting with new technologies like AI. 🚀 I’m always learning, creating, and turning ideas into reality.</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<p align="left">💻 **Languages:** Java, Python<br>📱 **Android Development:** Android Studio, XML UI Design,<br>⚙️ **Backend:** Spring Boot, REST APIs, Multithreading (Chat Apps)<br>📚 **Technical Foundations:** OOP, DSA,<br>🧰 **Tools & Platforms:** Android Studio, Intellij, Git, GitHub, Postman, Canva, VS Code,</p>
+<p align="left">💻 Languages: Java, Python<br>📱 Android Development: Android Studio, XML UI Design,<br>⚙️ Backend: Spring Boot, REST APIs, Multithreading (Chat Apps)<br>📚 Technical Foundations: OOP, DSA,<br>🧰 Tools & Platforms: Android Studio, Intellij, Git, GitHub, Postman, Canva, VS Code,</p>
 
 ###
 
