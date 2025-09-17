@@ -22,8 +22,6 @@
 
 ###
 
-<br clear="both">
-
 <p align="left">💻 Languages: Java, Python<br>📱 Android Development: Android Studio, XML UI Design,<br>⚙️ Backend: Spring Boot, REST APIs, Multithreading (Chat Apps)<br>📚 Technical Foundations: OOP, DSA,<br>🧰 Tools & Platforms: Android Studio, Intellij, Git, GitHub, Postman, Canva, VS Code,</p>
 
 ###
